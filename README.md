@@ -26,8 +26,8 @@ mkdir
 Write the code used to create ssh key:
 ssh_keygen -t
 Write the code you will use to stage these updates:
-git add
+git add{name of file}
 Write the code and the message you will use when you commit these updates:
-git commit -m
+git commit -m [message]
 Write the code you will use to push these updates:
-git push origin
+git push
